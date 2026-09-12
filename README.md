@@ -243,3 +243,6 @@ This repository serves as the official landing page for Sea of Conquest. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sea of Conquest today!**
+
+---
+**Last updated:** 2026-09-12 06:40:54 UTC
